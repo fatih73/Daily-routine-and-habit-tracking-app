@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Minimalist task, multi-slot habit, and calendar planner with custom themes, slot notes, media attachments, and reminders.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "daily-routine-and-habit-tracking-ap-chi.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "daily-routine-and-habit-tracking-ap-chi.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
