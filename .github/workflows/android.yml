@@ -21,10 +21,10 @@ jobs:
           java-version: 21
 
       - name: Paketleri kur
-        run: npm install --legacy-peer-deeps
+        run: npm install --legacy-peer-deps
 
       - name: Capacitor kur
-        run: npm install @capacitor/core @capacitor/cli @capacitor/android --legacy-peer-deeps
+        run: npm install @capacitor/core @capacitor/cli @capacitor/android --legacy-peer-deps
 
       - name: Web uygulamasini derle
         run: npm run build
